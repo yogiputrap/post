@@ -1,9 +1,8 @@
 # Hari Pertama Kuliah EL5183 – Sistem dan Aplikasi IoT  
 **Sabtu, 14 Februari 2026 | 08.00 WIB**
 
-![Kelas Online EL5183 - Pengantar IoT]
+![Kelas Online EL5183 – Pengantar IoT](https://github.com/user-attachments/assets/c9f2eb47-77a4-4649-8a9b-6ba68ed5ae65)
 
-<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/c9f2eb47-77a4-4649-8a9b-6ba68ed5ae65" />
 
 ## 📘 Pengantar
 
