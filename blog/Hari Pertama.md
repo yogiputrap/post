@@ -1,7 +1,8 @@
 # Hari Pertama Kuliah EL5183 – Sistem dan Aplikasi IoT  
 **Sabtu, 14 Februari 2026 | 08.00 WIB**
 
-![Kelas Online EL5183 – Pengantar IoT]([https://github.com/user-attachments/assets/c9f2eb47-77a4-4649-8a9b-6ba68ed5ae65](https://private-user-images.githubusercontent.com/34164415/549760451-c9f2eb47-77a4-4649-8a9b-6ba68ed5ae65.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzEwMzU3MTUsIm5iZiI6MTc3MTAzNTQxNSwicGF0aCI6Ii8zNDE2NDQxNS81NDk3NjA0NTEtYzlmMmViNDctNzdhNC00NjQ5LThhOWItNmJhNjhlZDVhZTY1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE0VDAyMTY1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwODgyODY0NzBmYTBmYzMwMjY4MGRmNjk4YTYyMmE4ODhmN2UwMmFiZDRiYWFmOWFiNGNjNTU5YjJjNzY2ODUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kg4cuDW-qBKvZS027o5NRnfDGro4Px8oK7v9MshNm9Q))
+
+![Kelas Online EL5183 – Pengantar IoT](https://raw.githubusercontent.com/yogiputrap/post/refs/heads/main/assets/hari-pertama-kuliah-iot.png)
 
 
 ## 📘 Pengantar
