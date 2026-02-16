@@ -1,2 +1,2 @@
 ---
-Thanks for reading! Follow me on [Twitter](https://twitter.com/you) for more.
+Thanks for reading! - 23524315 - Yogi Putra Pratama
