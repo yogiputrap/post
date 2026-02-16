@@ -3,4 +3,4 @@ description: "Dokumentasi Mata Kuliah EL5183 - Sistem dan Aplikasi IoT"
 theme: "github-light"
 font: "outfit"
 show_toc: true
-show_repo_link: true
+show_repo_link: false
