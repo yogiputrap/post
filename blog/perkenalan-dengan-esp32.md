@@ -1,6 +1,6 @@
 ---
 title: Berkenalan dengan ESP32 Microcontroller
-date: 21-02-2026
+date: 2026-02-21
 description: Minggu 2
 ---
 
