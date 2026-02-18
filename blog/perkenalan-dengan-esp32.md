@@ -4,7 +4,7 @@ date: 21-02-2026
 description: Minggu 2
 ---
 
-# Mengenal ESP32 – Langkah Awal Masuk Dunia IoT  
+# Mengenal ESP32 – Untuk prototyping IoT  
 **EL5183 – Sistem dan Aplikasi IoT**
 
 Pada sesi praktik kali ini, kami mulai berkenalan dengan perangkat utama yang akan digunakan sepanjang perkuliahan, yaitu **ESP32 Development Board**. Perangkat ini menjadi fondasi utama dalam membangun sistem Internet of Things (IoT) yang akan dikembangkan ke arah Smart City.
