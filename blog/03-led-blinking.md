@@ -26,6 +26,8 @@ umbra.
 
 ## Heros ira
 
+
+
 Ceres ego moris metus, ecce per, versuta **nec**. Caelo cum remittis meo roganda
 hostis, vulnera iam est inportuna `meme_link` quoque, mihi *tua vestra*
 Piraeaque et magnae sospes. Veniam imagine concordant inpiger et Alcyone, tamen
@@ -50,6 +52,23 @@ nunc cinctum telum altrice fuerunt, *gaudia*. Vates sit, non nihil inpia suci
 ipsa, est.
 
 ## Dextras Eleusin loquor postquam
+
+Ini adalah `inline code`.
+
+```javascript
+// Ini adalah blok kode JavaScript
+function helloWorld() {
+  console.log("Hello, world!");
+}
+helloWorld();
+Python
+
+
+
+# Ini adalah blok kode Python
+def greet(name):
+    print(f"Hello, {name}!")
+greet("Markdown")
 
 Flebam lucis harum essemus quae ora manet, specie melius intrat Manto. Nec sumit
 qua sua vittas duodena vis: descenderat in nostras.
